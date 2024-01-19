@@ -1,4 +1,4 @@
-Sorteio Amigo Secreto
+#Sorteio Amigo Secreto
 Este projeto web permite organizar e realizar o sorteio de Amigo Secreto de uma forma fácil e divertida. Adicione os nomes dos participantes, sorteie e veja quem tirou quem! O projeto utiliza HTML, CSS e JavaScript para criar uma interface interativa e amigável.
 
 Recursos
